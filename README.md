@@ -29,7 +29,7 @@ def gcd():
 ```
 
 ## Output:
-![Python Ex 4](https://github.com/baudhigan/GCD-of-two-numbers/assets/151921158/364b8939-29cf-4f9b-abc6-c2ea5aab360b)
+![image](https://github.com/baudhigan/GCD-of-two-numbers/assets/151921158/d03e0e8e-c96a-4a2c-9da4-2dddd27c19de)
 
 
 
